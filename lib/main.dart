@@ -89,8 +89,6 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
           image: _buildImage('stock1.jpg', 276, 276),
           decoration: pageDecoration,
         ),
-
-        //Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id euismod lectus, non tempor felis. Nam rutrum rhoncus est ac venenatis.
         PageViewModel(
           title: "Second title page",
           body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
